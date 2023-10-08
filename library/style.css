@@ -990,7 +990,6 @@ NEW CONTENT
     display: none;
     justify-content: space-between;
     flex-wrap: wrap;
-    /* opacity: 0; */
     transition: opacity 1.8s;
   }
 
